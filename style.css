@@ -20,7 +20,7 @@ body {
     flex-direction: row;
     align-items: center;
     justify-content: space-around;
-    padding: 24px;
+    padding: 5px;
 }
 
 .cabecalho-imagem {
@@ -90,6 +90,8 @@ body {
 
 .conteudo-principal-imagem {
     height: 430px;
+    padding-top: 1%;
+    border-radius: 8%;
 }
 
 .conteudo-secundario {
